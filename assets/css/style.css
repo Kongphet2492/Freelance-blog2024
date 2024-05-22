@@ -172,6 +172,10 @@ body.active { overflow: hidden; }
 .h4,
 .h5 { line-height: 1.2; }
 
+/* .h1{
+  text-align: justify; 
+} */
+
 .h1,
 .h2 { font-weight: var(--fw-300); }
 
